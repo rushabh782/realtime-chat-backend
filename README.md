@@ -57,6 +57,14 @@ Tested all API endpoints using Postman to ensure proper functionality.
 Ensured that the system behaves as expected for all routes (e.g., login, room creation, message sending).
 Verified JWT authentication by testing routes with and without the token.
 
+
+
+**OUTPUT**
+![realtimechatbackend_img1](https://github.com/user-attachments/assets/c0e99922-f42a-4dd9-837b-0738cd6e8fcb)
+![realtimechatbackend_img2](https://github.com/user-attachments/assets/025839ac-005c-4b74-92e9-ee4560e79a5a)
+![realtimechatbackend_img3](https://github.com/user-attachments/assets/e3af4812-6f81-49d0-a92b-6c74dbb4433f)
+![realtimechatbackend_img4](https://github.com/user-attachments/assets/bf6d7bc0-4570-4215-9cef-24d9aff84e15)
+
 **Summary**
 The Real-Time Chat Backend project aims to provide a scalable backend solution for building real-time chat applications. So far, we've implemented essential features such as user authentication (login/register), chat room creation, and message sending/receiving. All actions are secured using JWT authentication, ensuring that only authorized users can access protected endpoints. The chat system supports multiple rooms, each containing messages from users, and messages can be fetched for any specific room.
 
